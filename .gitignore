@@ -28,6 +28,7 @@ yarn-error.log
 !.vscode/extensions.json
 !.vscode/tailwind.json
 !.vscode/settings.json
+!.vscode/terminals.json
 .history/*
 
 # Miscellaneous
